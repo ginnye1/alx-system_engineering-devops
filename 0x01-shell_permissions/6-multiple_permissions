@@ -1,0 +1,2 @@
+#!/bin/bash
+chumod u+x,g+x,o+r hello
